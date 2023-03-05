@@ -1,0 +1,17 @@
+
+{
+    "swagger": "2.0",
+    "info": {
+        "description": "Its the simple API REST for DS on GLSI Class for SAFIATOU TRAORE",
+        "version": "1.0.0",
+        "title": "Student API",
+        "contact": {
+            "email": "safiatout95@gmail.com"
+        },
+        "license": {
+            "name": "Apache 2.0",
+            "url": "http://www.apache.org/licenses/LICENSE-2.0.html"
+        }
+    }
+    
+}
